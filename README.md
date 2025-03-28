@@ -120,12 +120,12 @@ Swagger Documentation: `http://localhost:3000/api-docs`
 ```json
 POST /product-review-api/reviews
 {
-  "review_product_id": "PROD123",
-  "web_id": "WEB123",
-  "review": "Great product!",
-  "user_name": "John Doe",
-  "review_number": "99.00",
-  "review_date": "2024-03-28"
+        "product_id": "XXXX08831",
+        "web_id": "99998614",
+        "review": "T222his prodect is very comfortable and stylish. You should buy this prodect .I'm so happy with myntra . Superb febric. 110% setsfid with mynta. ",
+        "user_name": "Test User",
+        "review_date": "2023-05-27",
+        "review_number": 3
 }
 ```
 
