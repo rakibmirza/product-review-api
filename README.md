@@ -2,7 +2,7 @@
 
 ## Overview
 The Product Review API is a Node.js application that provides a RESTful API for managing product reviews. It allows users to perform CRUD operations on reviews stored in a PostgreSQL database.
-
+This project is fully built using the recent trend of Vibe Coding. No code is manually written. LLM Used is Claude Sonnet 3.7 in Github Copilot Workspace
 ## Features
 - Fetch reviews by product number or web ID
 - Create, update, and delete reviews
